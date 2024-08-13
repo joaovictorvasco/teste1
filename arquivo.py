@@ -1,0 +1,1 @@
+print("Eu sou vascaíno, graças a Deus")
